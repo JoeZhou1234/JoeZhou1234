@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeZhou1234
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python 3, C, and SVN version control
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
