@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoeZhou1234
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning Java, Python 3, C, and version control (feature branching)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning to incorporate AI into my Projects 
+- 🌱 I’m currently learning Machine Learning and AI. Also practicing web programming and deployment at joezhou.me (website may not always be up and running)
+- 💞️ I’m looking to collaborate on Computer Vision related projects or any AI or Web Development project.
+- 📫 How to reach me: email me at mr.joezhou@gmail.com or DM me on Discord @frozenleek
 
 <!---
 JoeZhou1234/JoeZhou1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
